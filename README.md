@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 CyberSecurity Student<br><br>🚀 Space Addicted<br><br>"La legge di Murphy non significa che succederà una cosa brutta, ma che tutto quello che può accadere accadrà." ~ Interstellar
+💻 Computer Science Student<br><br>🚀 Space Addicted<br><br>"La legge di Murphy non significa che succederà una cosa brutta, ma che tutto quello che può accadere accadrà." ~ Interstellar
 
 
 ## 🌐 Socials:
