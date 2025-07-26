@@ -1,7 +1,7 @@
 # Hi there, I'm Lorenzo Molinari 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Software+Engineering+Student;Privacy+%26+Federated+Learning+Researcher;Full-Stack+Developer;Network+Security+Specialist" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Cybersecurity+%26+Informatics+Student;Privacy+%26+Federated+Learning+Researcher;Full-Stack+Developer;Network+Security+Specialist" alt="Typing SVG">
 </div>
 
 <div align="center">
